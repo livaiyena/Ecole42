@@ -1,0 +1,18 @@
+[submodule "libft"]
+	path = libft
+	url = git@github.com:livaiyena/libft.git
+[submodule "printf"]
+	path = printf
+	url = git@github.com:livaiyena/printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:livaiyena/get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:livaiyena/push_swap.git
+[submodule "Python-Modules"]
+	path = Python-Modules
+	url = git@github.com:livaiyena/Python-Modules.git
+[submodule "a-maze-ing"]
+	path = a-maze-ing
+	url = git@github.com:livaiyena/a-maze-ing.git
